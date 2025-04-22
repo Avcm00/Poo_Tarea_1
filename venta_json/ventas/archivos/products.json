@@ -1,0 +1,5 @@
+[{"id": 2, "descripcion": "Coca Cola", "precio": 1.5, "stock": 2000},
+  {"id": 3, "descripcion": "Mortadela", "precio": 2.5, "stock": 700},
+  {"id": 50, "descripcion": "algo xd", "precio": 2.5, "stock": 55},
+  {"id": 1, "descripcion": "leche nutri ltr", "precio": 0.9, "stock": 350}
+]
