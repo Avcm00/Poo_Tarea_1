@@ -1,0 +1,22 @@
+{
+    "estudiantes": [
+        {
+            "nombre": "Juan",
+            "edad": 20,
+            "cursos": [
+                "Python",
+                "Java",
+                "SQL"
+            ]
+        },
+        {
+            "nombre": "Mar\u00eda",
+            "edad": 22,
+            "cursos": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ]
+        }
+    ]
+}
